@@ -1,0 +1,9 @@
+output/
+wp-templates/output/
+
+__pycache__/
+*.py[cod]
+
+.DS_Store
+Thumbs.db
+desktop.ini
